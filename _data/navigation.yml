@@ -1,22 +1,23 @@
 # main links links
 main:
-  - title: "Worship"
+  - title: "Reading"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Praying"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Fellowship"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Worship"
     url: /portfolio/
+  
+  - title: "Sunday School"
+    url: /cv/
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
     
   - title: "Guide"
     url: /markdown/
