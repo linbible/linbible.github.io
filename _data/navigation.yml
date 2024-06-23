@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Reading"
-    url: /publications/
+    url: /reading/
 
   - title: "Praying"
     url: /talks/    
@@ -17,7 +17,6 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
     
   - title: "Guide"
     url: /markdown/
