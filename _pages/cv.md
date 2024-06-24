@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Experience
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Christian, Maryland, 2023-present
+* Christian, North Carolina, 2021-2023
+* Christian, Houston, 2019-2021
+* Seekers, Houston, 2017-2019
 
 Work experience
 ======
