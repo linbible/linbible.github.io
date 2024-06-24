@@ -200,7 +200,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  fellowship:
     output: true
     permalink: /:collection/:path/
   reading:
@@ -228,7 +228,7 @@ defaults:
       share: true
       related: true
   # _pages
-  - scope:
+  - scope:  
       path: ""
       type: pages
     values:
@@ -237,7 +237,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: fellowship
     values:
       layout: single
       author_profile: true
