@@ -206,10 +206,10 @@ collections:
   reading:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  worship:
     output: true
     permalink: /:collection/:path/
-  talks:
+  praying:
     output: true
     permalink: /:collection/:path/
 
@@ -255,7 +255,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: worship
     values:
       layout: single
       author_profile: true
@@ -264,9 +264,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: praying
     values:
-      layout: talk
+      layout: praying
       author_profile: true
       share: true
 
