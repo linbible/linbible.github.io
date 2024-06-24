@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-CV
 ======
 * Christian, Maryland, 2023-present
 * Christian, North Carolina, 2021-2023
