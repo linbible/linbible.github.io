@@ -7,16 +7,16 @@ main:
     url: /praying/    
 
   - title: "Fellowship"
-    url: /felloship/    
+    url: /fellowship/    
     
   - title: "Worship"
     url: /worship/
-  
-  - title: "Sunday School"
-    url: /cv/
 
-  - title: "Testimony"
-    url: /testimony/  
+  - title: "SundaySchool"
+    url: /sundayschool/ 
+    
+  - title: "Experience"
+    url: /cv/
 
   - title: "Blog Posts"
     url: /year-archive/

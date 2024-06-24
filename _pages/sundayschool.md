@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "testimony"
-permalink: /testimony/
+title: "sundayschool"
+permalink: /sundayschool/
 author_profile: true
 ---
 
