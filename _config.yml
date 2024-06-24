@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lin / Reading Bible"
+title                    : "Lin / Church Life"
 title_separator          : "-"
 name                     : &name "Lin"
 description              : &description "page description"
@@ -212,6 +212,9 @@ collections:
   praying:
     output: true
     permalink: /:collection/:path/
+  testimony:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -270,6 +273,14 @@ defaults:
       author_profile: true
       share: true
 
+  # _testmony
+  - scope:
+      path: ""
+      type: testimony
+    values:
+      layout: testimony
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:

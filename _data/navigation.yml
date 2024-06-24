@@ -4,17 +4,20 @@ main:
     url: /reading/
 
   - title: "Praying"
-    url: /talks/    
+    url: /praying/    
 
   - title: "Fellowship"
-    url: /teaching/    
+    url: /felloship/    
     
   - title: "Worship"
-    url: /portfolio/
+    url: /worship/
   
   - title: "Sunday School"
     url: /cv/
-        
+
+  - title: "Testimony"
+    url: /testimony/  
+
   - title: "Blog Posts"
     url: /year-archive/
     
