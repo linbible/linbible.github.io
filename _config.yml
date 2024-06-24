@@ -21,7 +21,7 @@ repository               : "https://github.com/linbible/linbible.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Sing_Profile.jpg"
+  avatar           : "Sing_Profile.jpeg"
   name             : "Lin"
   pronouns         : "he/his"  
   bio              : "I am using this website to track my life in church."
