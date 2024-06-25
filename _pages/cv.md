@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 * Christian, Maryland, 2023-present
 * Christian, North Carolina, 2021-2023
 * Christian, Houston, 2019-2021
