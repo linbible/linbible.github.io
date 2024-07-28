@@ -269,7 +269,7 @@ defaults:
       path: ""
       type: praying
     values:
-      layout: praying
+      layout: single
       author_profile: true
       share: true
 
@@ -278,7 +278,7 @@ defaults:
       path: ""
       type: sundayschool
     values:
-      layout: sundayschool
+      layout: single
       author_profile: true
       share: true
 
