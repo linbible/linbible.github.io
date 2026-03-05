@@ -14,20 +14,7 @@ The site features various sections related to church life:
 - **Praying**: Prayer journals and requests.
 - **Sunday School**: Notes and lessons from Sunday School classes.
 
-## Getting Started
 
-This site is based on a Jekyll template. To run the site locally for development or previewing changes:
-
-1. Make sure you have ruby-dev, bundler, and nodejs installed.
-   On MacOS, you can use Homebrew:
-   ```bash
-   brew install ruby
-   brew install node
-   gem install bundler
-   ```
-2. Clone the repository and navigate to the directory.
-3. Run `bundle install` to install ruby dependencies.
-4. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `http://localhost:4000`. The local server will automatically rebuild and refresh the pages on change.
 
 ## Author
 
