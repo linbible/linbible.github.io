@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "sundayschool"
+title: "Sunday School"
 permalink: /sundayschool/
 author_profile: true
 ---
